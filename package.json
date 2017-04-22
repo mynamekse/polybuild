@@ -1,5 +1,5 @@
 {
-  "name": "polymer-cli",
+  "name": "polybuild",
   "version": "1.0.1",
   "description": "searches for files",
   "scripts": {
