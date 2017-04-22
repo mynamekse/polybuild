@@ -9,6 +9,16 @@
   "license": "ISC",
   "preferGlobal": true,
   "bin": {
-    "polymer-cli": "index.js"
-  }
+    "polybuild": "index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynamekse/polybuild.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mynamekse/polybuild/issues"
+  },
+  "homepage": "https://github.com/mynamekse/polybuild#readme"
 }
